@@ -53,6 +53,12 @@
    border-width: 0px ;
 }
 
+.button:hover{
+
+color: black;
+background-color:rebeccapurple;
+}
+
 .first3{
     font-size: 56px;
     font-weight: bold;
@@ -288,10 +294,13 @@ background-color:blanchedalmond;
 
     background-color: #006A50;
    color:white;
-   padding: 10px;
+   padding: 20px;
    border-radius: 5px;
    border-width: 0px ;
    text-align: center;
+   font-size: 18px;
+   font-weight: 700;
+
 }
 .button7{
     text-align: center;
@@ -306,6 +315,14 @@ background-color:blanchedalmond;
     padding: 12px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
+
+
+}
+
+#classparty{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
 
 
 }
@@ -330,6 +347,11 @@ background-color:blanchedalmond;
 
     background-color: rgba(198, 228, 214, 1);
     border-radius: 16px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
 }
 .title12{
     font-size: 40px;
@@ -356,3 +378,79 @@ padding-bottom: 10px;
     padding-top: 10px;
 
 }
+
+.end{
+
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+
+
+   
+   
+
+
+.end2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 50px;
+    margin-top: 32px;
+  }
+
+  .end2 p {
+    margin: 0;
+  }
+  .line{
+    width: 70%;
+  }
+
+
+  /* CHALLANGE MISSION HOVER */
+
+  .heading3:hover{ color:aliceblue;
+    background-color:#006A50
+
+  }
+  .button2:hover{
+color: aliceblue;
+background-color:blue;
+
+  }
+  .button3:hover{
+    color: aliceblue;
+    background-color:goldenrod ;
+
+  }
+
+  .button4:hover{
+
+    color: aliceblue;
+    background-color:#006A50;
+  }
+
+  .button6:hover{
+color:#006A50;
+background-color:deepskyblue
+  }
+  .button10:hover{
+    color:#C6E4D6;
+    background-color: black;
+
+
+
+  }
+
+  .part:hover{
+    color: green;
+    background-color: rgba(198, 228, 214, 1.00);
+
+
+
+  }
+
+
+
+ 
