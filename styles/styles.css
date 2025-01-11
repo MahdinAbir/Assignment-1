@@ -185,3 +185,75 @@
    border-radius: 9px;
    border-width: 0px ;
 }
+
+.quote{
+    color: rgba(14, 14, 14, 0.8);
+    border-radius: 16px;
+    background-color:rgba(14, 14, 14, 0.20);
+    margin-left: 160px;
+    margin-right: 160px;
+    padding: 48px 24px 48px 24px;
+    
+
+    
+
+
+}
+#dr{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bd{ margin-left: 160px;
+    margin-right: 160px;
+    padding: 48px 24px 48px 24px;
+    color: rgba(14, 14, 14, 0.8);
+
+}
+
+.news1{ 
+    display: flex;
+    
+
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    
+    
+
+}
+.news2{
+    padding: 48px;
+}
+
+.border{border-radius: 15px;
+}
+#ant{
+    text-align: center;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.money{
+    font-size: 40px;
+font-weight: bold;
+
+padding: 40px;
+background-color:blanchedalmond;
+
+}
+.money:hover { background-color:limegreen;
+    color:whitesmoke;
+
+
+}
+    
+.money1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 160px;
+    margin-right: 160px;
+    gap: 10px;
+}
