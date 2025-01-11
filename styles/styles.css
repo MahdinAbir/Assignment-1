@@ -227,6 +227,8 @@
 }
 .news2{
     padding: 48px;
+   
+
 }
 
 .border{border-radius: 15px;
@@ -246,6 +248,7 @@ background-color:blanchedalmond;
 }
 .money:hover { background-color:limegreen;
     color:whitesmoke;
+    border-radius: 16px;
 
 
 }
@@ -256,4 +259,100 @@ background-color:blanchedalmond;
     margin-left: 160px;
     margin-right: 160px;
     gap: 10px;
+}
+
+.news5{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.name2{
+
+    height: 64px;
+    width: 1032px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 230px; 
+    margin-right: 260px;
+    background-color:blanchedalmond;
+    border-width: 0px;
+    
+    
+
+}
+#name5{
+    text-align: center;
+
+}
+.button6{
+
+    background-color: #006A50;
+   color:white;
+   padding: 10px;
+   border-radius: 5px;
+   border-width: 0px ;
+   text-align: center;
+}
+.button7{
+    text-align: center;
+    
+}
+.button10{height: 56px;
+    width: 150px;
+    background-color: #006A50;
+    color: white;
+    font-size: larger;
+    border-width: 0px ;
+    padding: 12px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+
+}
+#mail{
+    height: 55px;
+    width: 600px;
+    border-width: 0px;
+   border-bottom-left-radius: 8px;
+   border-start-start-radius: 8px;
+
+
+
+}
+
+.hard{
+    text-align: center;
+    border-radius: 16px;
+
+}
+
+.matha{
+
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+}
+.title12{
+    font-size: 40px;
+font-weight: bold;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 10px;
+
+
+}
+
+.writing{font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    text-align: center;
+    padding: 10px;
+
+}
+
+.writing2{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 10px;
+
 }
